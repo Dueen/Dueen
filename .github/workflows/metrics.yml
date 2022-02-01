@@ -1,0 +1,28 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          name: Indepth analysis
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          filename: metrics.plugin.languages.indepth.svg
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 4
+      - uses: lowlighter/metrics@latest
+        with:
+          name: Recent activity
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          filename: metrics.plugin.activity.svg
+          plugin_activity: yes
