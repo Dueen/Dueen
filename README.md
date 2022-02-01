@@ -40,6 +40,9 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
+# 🏆 Badges :
+[Rust](https://docs.microsoft.com/learn/achievements/take-your-first-steps-with-rust.svg)
+
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Dueen&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dueen&theme=swift&hide_border=true)<br/>
