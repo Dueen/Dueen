@@ -16,9 +16,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 
-# 🏆 Badges :
-![](https://docs.microsoft.com/learn/achievements/take-your-first-steps-with-rust.svg)
-
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Dueen&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dueen&theme=swift&hide_border=true)<br/>
