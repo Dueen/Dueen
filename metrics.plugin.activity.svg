@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">sunface/rust-course</span>
+                                        <span class="repo">facebookexperimental/go-media-webtransport-server</span>
                                     </div>
                                 </div>
                             </section>
@@ -36,7 +36,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">Noeda/rllama</span>
+                                        <span class="repo">Canop/bacon</span>
                                     </div>
                                 </div>
                             </section>
@@ -49,7 +49,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">awslabs/mountpoint-s3</span>
+                                        <span class="repo">total-typescript/ts-reset</span>
                                     </div>
                                 </div>
                             </section>
@@ -62,7 +62,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">pedrozath/coltrane</span>
+                                        <span class="repo">oxidecomputer/serde_human_bytes</span>
                                     </div>
                                 </div>
                             </section>
@@ -75,7 +75,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">vercel-community/rust</span>
+                                        <span class="repo">dalnefre/oxide</span>
                                     </div>
                                 </div>
                             </section>
