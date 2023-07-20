@@ -16,14 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.96mb of code in 627 edited files across 357 commits</small>
+                <small>estimation from 1.96mb of code in 628 edited files across 358 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="288.78272546466246" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="288.78272546466246" y="0" width="117.5850755425718" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="288.78272546466246" y="0" width="117.5850755425718" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="406.3678010072343" y="0" width="28.10244616944208" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="434.47024717667637" y="0" width="25.52975282332363" height="8" fill="#dea584"/>
                 </svg>
@@ -36,7 +36,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TSX
                     </div>
